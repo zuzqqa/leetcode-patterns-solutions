@@ -3,7 +3,7 @@
 This repository contains my solutions to problems grouped by common algorithmic patterns, inspired by [Sean Pashard's LeetCode Patterns](https://seanprashad.com/leetcode-patterns/). Each folder represents a specific pattern and contains problems that can be solved using that approach.
 
 ## Patterns
-- Arrays
+- [Arrays](https://github.com/zuzqqa/leetcode-patterns-solutions/tree/main/arrays)
 - BFS (Breadth-First Search)
 - Backtracking
 - Binary Search
