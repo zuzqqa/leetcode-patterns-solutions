@@ -23,5 +23,5 @@ This repository contains my solutions to problems grouped by common algorithmic 
 - Sorting
 - Topological Sort
 - Trie
-- [Two Pointers](https://github.com/zuzqqa/leetcode-patterns-solutions/tree/main/two pointers)
+- [Two Pointers](https://github.com/zuzqqa/leetcode-patterns-solutions/tree/main/two%20pointers)
 - Union Find
